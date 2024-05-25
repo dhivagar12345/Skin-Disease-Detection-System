@@ -1,19 +1,22 @@
 <div style="display: flex; align-items: center;">
-  <h1><img src="/static/images/icon.png" alt="App Icon" width="25" height="25"> MedAI</h1>
+  <h1><img src="/static/images/icon.png" alt="App Icon" width="25" height="25">Skin Disease Detection System</h1>
 </div>
 
-MedAI is a Flask application that utilizes AI algorithms to detect skin diseases and provide treatment susceptibility for patients. It offers an intelligent system that analyzes patient data and provides valuable insights for effective disease diagnosis and treatment planning.
+Skin Disease Detection System is a Flask application that utilizes AI algorithms to detect skin diseases and provide treatment susceptibility for patients. It offers an intelligent system that analyzes patient data and provides valuable insights for effective disease diagnosis and treatment planning.
 
 ## Preview
+![skin](https://github.com/SubhikshaKarna/Skin-Disease-Detection-System/assets/149041362/f4aeebfa-66ab-4717-877e-8fe88c133fa4)
 
 ![App Preview](/screenshot.png)
 
+![dictection](https://github.com/SubhikshaKarna/Skin-Disease-Detection-System/assets/149041362/7c410998-cb2d-4215-b8f1-b0e7c8ff7f82)
+
 ## Features
 
-- Skin Disease Detection: MedAI leverages advanced AI algorithms to analyze patient symptoms and data to accurately detect various diseases.
-- Treatment Susceptibility: Based on the detected disease, MedAI provides valuable information on treatment susceptibility, assisting healthcare professionals in making informed decisions.
-- User-Friendly Interface: MedAI offers an intuitive and easy-to-use interface, making it accessible for both medical professionals and patients.
-- Data Privacy and Security: MedAI prioritizes data privacy and security, ensuring that patient information is handled with the utmost confidentiality and adheres to industry standards.
+- Skin Disease Detection:This system leverages advanced AI algorithms to analyze patient symptoms and data to accurately detect various diseases.
+- Treatment Susceptibility: Based on the detected disease,Skin Disease Detection System provides valuable information on treatment susceptibility, assisting healthcare professionals in making informed decisions.
+- User-Friendly Interface: Skin Disease Detection System offers an intuitive and easy-to-use interface, making it accessible for both medical professionals and patients.
+- Data Privacy and Security: Skin Disease Detection System prioritizes data privacy and security, ensuring that patient information is handled with the utmost confidentiality and adheres to industry standards.
 
 
 <!--h1 without bottom border-->
@@ -64,17 +67,3 @@ Make sure you have the following dependencies installed before running the proje
    ```bash
    python3 app.py
   
-### Open your web browser and visit the following URL:
-
-- http://localhost:3000
-
-
-## Contact
-For any inquiries or feedback, please contact us at dev.younes.ammari@gmail.com.
-
-## Website
-Visit the MedAI website for more information and live demos.
-
-Check out the live demo of the application [https://medai.onrender.com](https://medai.onrender.com).
-
-
