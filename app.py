@@ -9,7 +9,7 @@ from keras.models import model_from_json
 app = Flask(__name__)
 
 SKIN_CLASSES = {
-    0: 'Actinic Keratoses (Solar Keratoses) or intraepithelial Carcinoma (Bowen’s disease)',
+    0: 'Actinic Keratoses (Solar Keratoses) or intraepithelial Carcinoma (Bowens disease)',
     1: 'Basal Cell Carcinoma',
     2: 'Benign Keratosis',
     3: 'Dermatofibroma',
